@@ -1,5 +1,7 @@
 # A spatio-temporal analysis of NO2 concentrations during the Italian 2020 COVID-19 lockdown.
 
+Guido Fioravanti, Michela Cameletti, Sara Martino, Giorgio Cattani, Enrico Pisoni.
+
 The following is the code for running INLA. The input dataset is available as a `.csv` file on this repository in the `data` folder.
 
 ```
