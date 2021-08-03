@@ -6,7 +6,7 @@ Guido Fioravanti, Michela Cameletti, Sara Martino, Giorgio Cattani, Enrico Pison
 
 ![](./mesh/mesh.png)
 
-<br>
+<br><br>
 
 The following is the code for running INLA. The input dataset is available as a `.csv` file on this repository in the `data` folder.
 
