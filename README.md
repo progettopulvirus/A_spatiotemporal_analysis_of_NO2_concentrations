@@ -1,5 +1,7 @@
 # A spatio-temporal analysis of NO2 concentrations during the Italian 2020 COVID-19 lockdown.
 
+The following is the code for running INLA. The input dataset is available as a `.csv` file on this repository in the `data` folder.
+
 ```
 rm(list=objects())
 library("tidyverse")
